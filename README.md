@@ -17,7 +17,7 @@
 - 🔭 **Specializing in:** Component-based systems using **React** and **Next.js**.
 - 💡 **Currently exploring:** Advanced WebGL and 3D UI concepts (e.g., Three.js integration).
 - 🤝 **Open for collaboration on:** Accessibility (A11Y) audits and front-end tooling projects.
-- 🌐 **Portfolio & Case Studies:** [YOUR\_PORTFOLIO\_URL]  
+- 🌐 **Portfolio & Case Studies:** [YOUR\_PORTFOLIO\_URL]  
 - 📧 **Contact:** your.email@example.com
 
 ---
@@ -59,14 +59,10 @@
 ## 📊 GitHub Performance (Visual & Metric Focus)
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ashfaq-ui&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" height="180"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=ashfaq-ui&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" height="180"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.tech/?user=ashfaq-ui&theme=dracula&hide_border=true&border_radius=4.5" alt="GitHub Streak" />
-</p>
-
-<h4 align="center">📈 Top Language Breakdown</h4>
+<h2 align="center">📈 Top Language Breakdown</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashfaq-ui&layout=compact&theme=dracula&hide_border=true" height="160"/>
 </p>
@@ -74,20 +70,25 @@
 ---
 
 <h3 align="left">⌨️ Daily Coding Stats (WakaTime Ready)</h3>
+
 ---
 
-## 🤝 Connect With Me  
+## 🤝 Connect With Me  
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_ID" target="_blank">
-      <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:your.email@example.com">
-      <img src="https://custom-icon-badges.demolab.com/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="YOUR_PORTFOLIO_URL" target="_blank">
-      <img src="https://custom-icon-badges.demolab.com/badge/Portfolio-00BFFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_ID" target="_blank">
+      <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your.email@example.com">
+      <img src="https://custom-icon-badges.demolab.com/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="YOUR_PORTFOLIO_URL" target="_blank">
+      <img src="https://custom-icon-badges.demolab.com/badge/Portfolio-00BFFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
 
 ---
+
+**This is the final, ready-to-use version.**
+
+**Would you like me to confirm the steps for setting up the WakaTime GitHub Action now, so the `Daily Coding Stats` section will populate?**
