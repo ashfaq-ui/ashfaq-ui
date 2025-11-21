@@ -69,13 +69,10 @@
 ## 🤝 Connect With Me  
 
 <p align="center">
-  <a href="www.linkedin.com/in/
-ashfaq-mohamed
-Vanity URL name
-" target="_blank">
+  <a href="www.linkedin.com/in/ashfaq-mohamed">
       <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="[mailto:your.email@example.com](https://mail.google.com/mail/u/0/#inbox)">
+  <a href="https://mail.google.com/mail/u/0/#inbox">
       <img src="https://custom-icon-badges.demolab.com/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="YOUR_PORTFOLIO_URL" target="_blank">
