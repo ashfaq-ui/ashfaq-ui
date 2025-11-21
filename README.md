@@ -37,7 +37,7 @@
 
 <h2 align="center">🔥 Commitment Streak</h2>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashfaq-ui&theme=onedark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=ashfaq-ui&theme=onedark" alt="GitHub Streak" />
 </p>
 
 ---
