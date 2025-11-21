@@ -1,8 +1,8 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Ashfaq+👋,+Systems+Developer;Backend+Explorer;Java+and+IoT+Enthusiast;Building+Robust+Architectures" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Ashfaq+👋,+Computer+Science+Student;ML%2FBackend+Architecture+Explorer;IoT+and+Data+Pipeline+Enthusiast;Building+Scalable+Intelligence" alt="Typing SVG" />
 </h1>
 
-<h3 align="align-center">✨ Focused on System Design, Data Pipelines, and Emerging Technologies ✨</h3>
+<h3 align="align-center">✨ Focused on Data Systems, Backend Robustness, and Edge Computing ✨</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ashfaq-ui&label=Profile%20views&color=00BFFF&style=for-the-badge" alt="profile views" />
@@ -12,43 +12,33 @@
 ---
 
 ## 👨‍💻 Core Focus & Bio
-> A committed developer focusing on **robust systems and emerging technologies**. I have **foundational knowledge in frontend technologies** while actively pivoting to backend architecture, data pipelines, and IoT integration.
+> Computer Science student dedicated to understanding and building **robust backend systems and ML pipelines**. I possess **foundational skills in frontend development** and am actively pursuing expertise in data-heavy architectures and IoT implementation.
 
-- 🔭 **My current career goal:** Transitioning into a **Full Stack Role (Backend-heavy)** by mastering Java/Spring Boot and expanding expertise in edge computing and data systems.
-- 💡 **Currently exploring:** IoT architectures, Java/Spring Boot for backend development, and TensorFlow Lite for edge computing.
+- 🔭 **My current career goal:** To secure a role focusing on **Backend/Systems Engineering** or **Machine Learning Operations (MLOps)**, specializing in Java/Spring and TensorFlow.
+- 💡 **Currently exploring:** IoT architectures, Java/Spring Boot for backend development, and **TensorFlow Lite** for edge computing.
 - 🤝 **Open for collaboration on:** Seeking **guidance on beginner Java/IoT projects**, contributing to **documentation and testing** for open-source projects, and learning **Backend APIs**.
-- 🌐 **Portfolio & Case Studies:** [YOUR\_PORTFOLIO\_URL]
-- 📧 **Contact:** your.email@example.com
+- 🌐 **Portfolio & Case Studies:** soon..!
+- 📧 **Contact:** ashfaq.cs2025@gmail.com
 
 ---
 
-## 🚀 Impactful Projects (Systems/Code Emphasis)
-
-| Project Name | Stack & Focus | Key Achievement |
-| :--- | :--- | :--- |
-| **State-Managed E-commerce** | Next.js, Zustand, Tailwind | Achieved sub-50ms Time-to-Interactive (TTI) via server components. |
-| **Design System Library** | React, Storybook, TypeScript | Created a reusable library of 30+ components, reducing dev time by 30%. |
-| **Real-time Chat App** | React, WebSockets, Node/Express | Implemented highly responsive real-time communication with minimal latency. |
-
-📌 *View all repositories and detailed documentation → [GitHub Repositories](https://github.com/ashfaq-ui?tab=repositories)*
-
----
 
 ## 🛠️ My Technical Arsenal
 
 <h4 align="center">Languages & Frameworks</h4>
 <p align="center">
-    <img src="https://custom-icon-badges.demolab.com/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://custom-icon-badges.demolab.com/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://custom-icon-badges.demolab.com/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://custom-icon-badges.demolab.com/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     <img src="https://custom-icon-badges.demolab.com/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://custom-icon-badges.demolab.com/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+    <img src="https://custom-icon-badges.demolab.com/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://custom-icon-badges.demolab.com/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </p>
 
 <h4 align="center">Tools, Runtime & Databases</h4>
 <p align="center">
   <img src="https://custom-icon-badges.demolab.com/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://custom-icon-badges.demolab.com/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://custom-icon-badges.demolab.com/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://custom-icon-badges.demolab.com/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://custom-icon-badges.demolab.com/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
@@ -66,7 +56,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashfaq-ui&theme=dracula&hide_border=true&point=00BFFF&line=00BFFF" alt="Ashfaq's Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashfaq-ui&theme=dracula&hide_border=true&point=00BFFF&line=00BFFF" alt="Ashfaq's Activity Graph" />
 </p>
 
 <h4 align="center">📈 Top Language Breakdown</h4>
@@ -79,10 +69,13 @@
 ## 🤝 Connect With Me  
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_ID" target="_blank">
+  <a href="www.linkedin.com/in/
+ashfaq-mohamed
+Vanity URL name
+" target="_blank">
       <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="[mailto:your.email@example.com](https://mail.google.com/mail/u/0/#inbox)">
       <img src="https://custom-icon-badges.demolab.com/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="YOUR_PORTFOLIO_URL" target="_blank">
