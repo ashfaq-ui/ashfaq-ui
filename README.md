@@ -69,7 +69,7 @@
 ## 🤝 Connect With Me  
 
 <p align="center">
-  <a href="www.linkedin.com/in/ashfaq-mohamed">
+  <a href="[www.linkedin.com/in/ashfaq-mohamed](https://www.linkedin.com/in/ashfaq-mohamed-0a3a1a32a/)">
       <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://mail.google.com/mail/u/0/#inbox">
