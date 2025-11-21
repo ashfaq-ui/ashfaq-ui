@@ -32,12 +32,12 @@
 
 <h2 align="center">🏆 GitHub Achievement Hall</h2>
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=ashfaq-ui&theme=onedark&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ashfaq-ui&theme=onedark&no-frame=true&no-bg=true" alt="GitHub Trophies" />
 </p>
 
 <h2 align="center">🔥 Commitment Streak</h2>
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashfaq-ui&theme=onedark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashfaq-ui&theme=onedark" alt="GitHub Streak" />
 </p>
 
 ---
