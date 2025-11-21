@@ -1,5 +1,14 @@
 ## Hi there 👋
 ## 📊 Detailed Development Activity (Updated Daily)
+<h2 align="center">🏆 GitHub Achievement Hall</h2>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+</p>
+
+<h2 align="center">🔥 Commitment Streak</h2>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=onedark" alt="GitHub Streak" />
+</p>
 <!--
 **ashfaq-ui/ashfaq-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
