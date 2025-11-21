@@ -1,8 +1,8 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Ashfaq+👋,+UI%2FUX+Specialist;Frontend+Architect;React+%26+Next.js+Developer;Building+Intuitive+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Ashfaq+👋,+Systems+Developer;Backend+Explorer;Java+and+IoT+Enthusiast;Building+Robust+Architectures" alt="Typing SVG" />
 </h1>
 
-<h3 align="align-center">✨ Focused on Performance, Accessibility, and Component-Driven Design ✨</h3>
+<h3 align="align-center">✨ Focused on System Design, Data Pipelines, and Emerging Technologies ✨</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ashfaq-ui&label=Profile%20views&color=00BFFF&style=for-the-badge" alt="profile views" />
@@ -12,17 +12,17 @@
 ---
 
 ## 👨‍💻 Core Focus & Bio
-> A front-end specialist with a passion for transforming complex requirements into elegant, high-performing user interfaces. Committed to clean code architecture and modern web standards.
+> A committed developer focusing on **robust systems and emerging technologies**. I have **foundational knowledge in frontend technologies** while actively pivoting to backend architecture, data pipelines, and IoT integration.
 
-- 🔭 **Specializing in:** Component-based systems using **React** and **Next.js**.
-- 💡 **Currently exploring:** Advanced WebGL and 3D UI concepts (e.g., Three.js integration).
-- 🤝 **Open for collaboration on:** Accessibility (A11Y) audits and front-end tooling projects.
-- 🌐 **Portfolio & Case Studies:** [YOUR\_PORTFOLIO\_URL]  
+- 🔭 **My current career goal:** Transitioning into a **Full Stack Role (Backend-heavy)** by mastering Java/Spring Boot and expanding expertise in edge computing and data systems.
+- 💡 **Currently exploring:** IoT architectures, Java/Spring Boot for backend development, and TensorFlow Lite for edge computing.
+- 🤝 **Open for collaboration on:** Seeking **guidance on beginner Java/IoT projects**, contributing to **documentation and testing** for open-source projects, and learning **Backend APIs**.
+- 🌐 **Portfolio & Case Studies:** [YOUR\_PORTFOLIO\_URL]
 - 📧 **Contact:** your.email@example.com
 
 ---
 
-## 🚀 Impactful Projects (UI/UX Emphasis)
+## 🚀 Impactful Projects (Systems/Code Emphasis)
 
 | Project Name | Stack & Focus | Key Achievement |
 | :--- | :--- | :--- |
@@ -34,42 +34,45 @@
 
 ---
 
-## 🛠️ My Frontend Arsenal
+## 🛠️ My Technical Arsenal
 
 <h4 align="center">Languages & Frameworks</h4>
 <p align="center">
-  <img src="https://custom-icon-badges.demolab.com/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://custom-icon-badges.demolab.com/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://custom-icon-badges.demolab.com/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://custom-icon-badges.demolab.com/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://custom-icon-badges.demolab.com/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://custom-icon-badges.demolab.com/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://custom-icon-badges.demolab.com/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://custom-icon-badges.demolab.com/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
 </p>
 
-<h4 align="center">Tools & Databases</h4>
+<h4 align="center">Tools, Runtime & Databases</h4>
 <p align="center">
   <img src="https://custom-icon-badges.demolab.com/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://custom-icon-badges.demolab.com/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://custom-icon-badges.demolab.com/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 ---
 
 ## 📊 GitHub Performance (Visual & Metric Focus)
 
+<h2 align="center">📊 Overall Stats & Activity</h2>
+
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=ashfaq-ui&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" height="180"/>
 </p>
 
-<h2 align="center">📈 Top Language Breakdown</h2>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashfaq-ui&theme=dracula&hide_border=true&point=00BFFF&line=00BFFF" alt="Ashfaq's Activity Graph" />
+</p>
+
+<h4 align="center">📈 Top Language Breakdown</h4>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashfaq-ui&layout=compact&theme=dracula&hide_border=true" height="160"/>
 </p>
-
----
-
-<h3 align="left">⌨️ Daily Coding Stats (WakaTime Ready)</h3>
 
 ---
 
@@ -88,7 +91,3 @@
 </p>
 
 ---
-
-**This is the final, ready-to-use version.**
-
-**Would you like me to confirm the steps for setting up the WakaTime GitHub Action now, so the `Daily Coding Stats` section will populate?**
