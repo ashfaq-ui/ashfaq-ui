@@ -1,0 +1,23 @@
+name: Waka Readme Stats
+
+on:
+  schedule:
+    # Runs at 12am UTC daily - adjust if needed
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Update Readme with Dev Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          # Set these to False to minimize the card clutter
+          SHOW_DAYS_OF_WEEK: "False"
+          SHOW_OS: "False"
+          SHOW_EDITORS: "False"
+          # SHOW_LANGUAGE_PER_REPO: "True" # Optionally show language breakdown per repo
+          # THEME: "github_dark" # Choose a unique theme like 'github_dark' or 'tokyonight'
