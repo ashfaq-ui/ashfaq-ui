@@ -18,12 +18,11 @@
 - 💡 **Currently exploring:** Advanced WebGL and 3D UI concepts (e.g., Three.js integration).
 - 🤝 **Open for collaboration on:** Accessibility (A11Y) audits and front-end tooling projects.
 - 🌐 **Portfolio & Case Studies:** [YOUR\_PORTFOLIO\_URL]  
-- 📧 **Contact:** ashfaq.ui.dev@example.com
+- 📧 **Contact:** your.email@example.com
 
 ---
 
 ## 🚀 Impactful Projects (UI/UX Emphasis)
-*Highlighting your strongest projects that showcase design and frontend engineering.*
 
 | Project Name | Stack & Focus | Key Achievement |
 | :--- | :--- | :--- |
@@ -36,7 +35,6 @@
 ---
 
 ## 🛠️ My Frontend Arsenal
-*Using the cleaner Simple Icons badge style for a distinct look.*
 
 <h4 align="center">Languages & Frameworks</h4>
 <p align="center">
@@ -61,11 +59,11 @@
 ## 📊 GitHub Performance (Visual & Metric Focus)
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=ashfaq-ui&theme=dracula&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ashfaq-ui&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=ashfaq-ui&theme=dracula&hide_border=true&border_radius=4.5" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.tech/?user=ashfaq-ui&theme=dracula&hide_border=true&border_radius=4.5" alt="GitHub Streak" />
 </p>
 
 <h4 align="center">📈 Top Language Breakdown</h4>
@@ -75,13 +73,16 @@
 
 ---
 
+<h3 align="left">⌨️ Daily Coding Stats (WakaTime Ready)</h3>
+---
+
 ## 🤝 Connect With Me  
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_ID" target="_blank">
       <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:ashfaq.ui.dev@example.com">
+  <a href="mailto:your.email@example.com">
       <img src="https://custom-icon-badges.demolab.com/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="YOUR_PORTFOLIO_URL" target="_blank">
@@ -90,8 +91,3 @@
 </p>
 
 ---
-
-### 💡 Final Note
-Remember to replace the placeholder links and emails (e.g., `[YOUR_PORTFOLIO_URL]`, `YOUR_LINKEDIN_ID`) with your genuine details!
-
-**Would you like me to create a detailed table of content for this README so visitors can easily navigate it?**
