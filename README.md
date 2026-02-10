@@ -17,7 +17,7 @@
 - 🔭 **My current career goal:** To secure a role focusing on **Backend/Systems Engineering** or **Machine Learning Operations (MLOps)**, specializing in Java/Spring and TensorFlow.
 - 💡 **Currently exploring:** IoT architectures, Java/Spring Boot for backend development, and **TensorFlow Lite** for edge computing.
 - 🤝 **Open for collaboration on:** Seeking **guidance on beginner Java/IoT projects**, contributing to **documentation and testing** for open-source projects, and learning **Backend APIs**.
-- 🌐 **Portfolio & Case Studies:** soon..!
+- 🌐 **Portfolio & Case Studies:** https://ashfaq-ui.netlify.app/
 - 📧 **Contact:** ashfaq.cs2025@gmail.com
 
 ---
